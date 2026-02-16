@@ -71,28 +71,29 @@ z = x + 0.050000 × sin(0.300000 × x)
 ## Visualizations
 
 ### Original Data Distribution
-![Original Data](path/to/original_data.png)
+<img width="1389" height="490" alt="distribution" src="https://github.com/user-attachments/assets/885cc226-c7b8-45be-bf59-a777a87fbdd7" />
+
 
 ### Transformation Function
-![Transformation](path/to/transformation_function.png)
+<img width="1389" height="489" alt="transformation effect" src="https://github.com/user-attachments/assets/1234a387-3b45-4972-bdb6-97fc0c1bce43" />
 
 ### Transformed Data Distribution
-![Transformed Data](path/to/transformed_data.png)
+<img width="1390" height="490" alt="transformed data distribution" src="https://github.com/user-attachments/assets/ca89a4a1-3c0e-438f-81d2-06191d50a75e" />
 
 ### Fitted PDF vs Empirical Distribution
-![Fitted PDF](path/to/fitted_pdf.png)
+<img width="1390" height="590" alt="empiricaldistribution" src="https://github.com/user-attachments/assets/9bca2657-dfbe-44e9-8716-0516badd42f4" />
 
 ### Residual Analysis
 ![Residuals](path/to/residuals.png)
 
 ### Q-Q Plot
-![Q-Q Plot](path/to/qq_plot.png)
+<img width="989" height="590" alt="quantile" src="https://github.com/user-attachments/assets/3b6c8c94-8929-4d7a-b5b2-d2f142c62cca" />
 
 ### CDF Comparison
-![CDF](path/to/cdf_comparison.png)
+<img width="1189" height="590" alt="cdf" src="https://github.com/user-attachments/assets/4056dcee-4204-4f6b-b7a8-f33d02862da4" />
 
 ### Summary Panel
-![Summary](path/to/summary_panel.png)
+<img width="1589" height="989" alt="output" src="https://github.com/user-attachments/assets/6f5e4841-6ba8-4538-a59c-39baeb5434d2" />
 
 ---
 
