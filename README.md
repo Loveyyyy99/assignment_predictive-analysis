@@ -77,7 +77,7 @@ z = x + 0.050000 × sin(0.300000 × x)
 <img width="1389" height="489" alt="transformation effect" src="https://github.com/user-attachments/assets/1234a387-3b45-4972-bdb6-97fc0c1bce43" />
 
 ### Transformed Data Distribution
-<img width="1390" height="490" alt="transformed data distribution" src="https://github.com/user-attachments/assets/ca89a4a1-3c0e-438f-81d2-06191d50a75e" />
+<img width="697" height="487" alt="image" src="https://github.com/user-attachments/assets/97ab7fe2-85fb-4a4c-83f5-a080b7bb69cd" />
 
 ### Fitted PDF vs Empirical Distribution
 <img width="1390" height="590" alt="empiricaldistribution" src="https://github.com/user-attachments/assets/9bca2657-dfbe-44e9-8716-0516badd42f4" />
