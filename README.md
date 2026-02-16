@@ -71,8 +71,7 @@ z = x + 0.050000 × sin(0.300000 × x)
 ## Visualizations
 
 ### Original Data Distribution
-<img width="1389" height="490" alt="distribution" src="https://github.com/user-attachments/assets/885cc226-c7b8-45be-bf59-a777a87fbdd7" />
-
+<img width="701" height="494" alt="image" src="https://github.com/user-attachments/assets/f921b7f0-29c8-45f6-8aec-0e32b7ab35bb" />
 
 ### Transformation Function
 <img width="1389" height="489" alt="transformation effect" src="https://github.com/user-attachments/assets/1234a387-3b45-4972-bdb6-97fc0c1bce43" />
@@ -84,7 +83,7 @@ z = x + 0.050000 × sin(0.300000 × x)
 <img width="1390" height="590" alt="empiricaldistribution" src="https://github.com/user-attachments/assets/9bca2657-dfbe-44e9-8716-0516badd42f4" />
 
 ### Residual Analysis
-![Residuals](path/to/residuals.png)
+<img width="1389" height="490" alt="distribution" src="https://github.com/user-attachments/assets/885cc226-c7b8-45be-bf59-a777a87fbdd7" />
 
 ### Q-Q Plot
 <img width="989" height="590" alt="quantile" src="https://github.com/user-attachments/assets/3b6c8c94-8929-4d7a-b5b2-d2f142c62cca" />
