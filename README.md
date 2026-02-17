@@ -1,8 +1,17 @@
-# Assignment-1: Probability Density Function Learning
+# Learning Probability Density Functions using Roll-Number-Parameterized Non-Linear Model
 
-## Objective
-To transform air quality data using a roll-number-parameterized non-linear function and estimate parameters of a probability density function using Maximum Likelihood Estimation.
+## Overview
 
+This project applies a roll-number-dependent non-linear transformation
+to NO₂ concentration data and estimates the parameters of a
+Gaussian-like probability density function (PDF) based on the
+transformed variable.
+
+### Objectives
+
+-   Transform the NO₂ feature using a personalized non-linear function
+-   Learn parameters of a probability density model
+-   Estimate λ, μ, and c from the transformed data
 ---
 
 ## Roll Number
@@ -11,10 +20,11 @@ To transform air quality data using a roll-number-parameterized non-linear funct
 ---
 
 ## Dataset
-- **data.csv** (India Air Quality Data)
-- Feature: NO2 concentration (µg/m³)
-- Samples: 29,531
-- Range: [0.31, 994.00] µg/m³
+
+-   Feature Used: NO₂ concentration (x)
+-   Dataset: India Air Quality Data
+-   Source:
+    https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data
 
 ---
 
@@ -131,18 +141,3 @@ z = x + 0.050000 × sin(0.300000 × x)
 ├── assignment.ipynb            # Main analysis notebook (19 cells)
 └── README.md                   # This file
 ```
-
----
-
-## Submission
-
-**Link:** https://forms.gle/iYF3MDKozRnSCHvR8
-
-**Parameters to Submit:**
-```
-λ (lambda) = 0.002058
-μ (mu)     = 19.630000
-c          = 0.026800
-```
-
----
